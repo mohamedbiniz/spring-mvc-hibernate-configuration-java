@@ -18,7 +18,7 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
     <springmvc.v>5.2.4.RELEASE</springmvc.v>
-    <hibernatecore>5.4.12.Final</hibernatecore>
+    <hibernatecore>5.4.24.Final</hibernatecore>
     <hibernate.validator>6.0.18.Final</hibernate.validator>
     <servlets.version>4.0.1</servlets.version>
     <jsp.version>2.3.3</jsp.version>
